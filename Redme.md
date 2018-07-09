@@ -15,18 +15,18 @@ Installing
 - When you have the proper development environment(Eclipse IDE)
 clone the repository and do a build by running the build program with no special arguments. 
 	Step by step:
-	I) Launch Eclipse IDE
-	II) Choose directory where cloned project is
-	III) Open project in IDE: File -> Open Projects from File Fystem -> directory
+	* Launch Eclipse IDE
+	* Choose directory where cloned project is
+	* Open project in IDE: File -> Open Projects from File Fystem -> directory
 		Then choose project(ConsoleBankApp folder) and click open
-	IV) Build project: Project -> Build all
+	* Build project: Project -> Build all
 		
 Running the tests
 
 - To start application in command line mode use CommandLineTest.java as a start point:
-	I) Double click on  src/test/java/net/yevstaf/UseCaseTest.java
-	II) Then you need to run project: Run -> Run. On the top panel.
-	III) Enter "help" in the console to see the available commands
+	* Double click on  src/test/java/net/yevstaf/UseCaseTest.java
+	* Then you need to run project: Run -> Run. On the top panel.
+	* Enter "help" in the console to see the available commands
 
 - After installing EclEmma, open the package with modular tests: ConsoleBankApp / src / test / java / net / yevstaf / UseCaseTest.
 Then right-click one of the tests in the folder -> Coverage As JUnitTest
