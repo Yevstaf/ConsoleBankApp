@@ -3,9 +3,9 @@ Prerequisites
 - Eclipse IDE - get installation file from:
 	https://www.eclipse.org/downloads/
 	Then:
-	1) Launch the installation file
-	2) Choose folder 
-	3) Install IDE
+	* Launch the installation file
+	* Choose folder 
+	* Install IDE
 - EclEmma - Detailed instructions:
 	https://www.eclemma.org/installation.html
 	
